@@ -1,6 +1,6 @@
 #include "pointer_array.h"
 
-//finished work
+//Nice work
 namespace pointer
 {
 
